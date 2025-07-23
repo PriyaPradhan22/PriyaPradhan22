@@ -13,20 +13,24 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/priya-pradhan-236bb5339)
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:priya.pradhan6393@gmail.com) </div>
 
+<br><br>
 
+<h2 style="color:#0a194e;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR3eWJzNzU3OTdkNnI2dTIyNXBqeG93bWo1ZDY4ajd1bXVpZnZibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tXaAmUDglqZFAMH9c6/giphy.gif" alt="About Me GIF" width="36" style="vertical-align:middle;"/> About Me
+</h2>
 
-### 🔍 About Me
+<span style="color:#222831;">
+  🎯 I specialize in solving real-world problems through data.<br>
+  🛠️ Skilled in Excel, Power BI, Tableau, SQL, Python (Pandas, Matplotlib).<br>
+  📊 Passionate about transforming data into compelling dashboards and visual stories.<br>
+  🌍 Open to global opportunities | Available for remote and on-site roles.
+</span>
 
-🎯 I specialize in solving real-world problems through data.  
-🛠️ Skilled in Excel, Power BI, Tableau, SQL, Python (Pandas, Matplotlib).  
-📊 Passionate about transforming data into compelling dashboards and visual stories.  
-🌍 Open to global opportunities | Available for remote and on-site roles.
+<br><br>
 
-
-
-
-
-### 🧰 Tools & Technologies
+<h2 style="color:#0a194e;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2s2ZHJocjhnMjJwaGNycGoxamtmemxpZDhkOHU1M28xZmY2b2VlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpyF0jsO26GWKTWctv/giphy.gif" alt="Tools & Technology GIF" width="36" style="vertical-align:middle;"/> Tools & Technology
+</h2>
 
 ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
 ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
@@ -35,7 +39,7 @@
 ![Excel](https://img.icons8.com/color/48/000000/ms-excel.png)
 
 
-
+<br><br>
 
 ### 📢 Let’s Collaborate
 
