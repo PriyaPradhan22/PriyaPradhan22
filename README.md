@@ -36,27 +36,6 @@
 
 
 
-### 📁 Featured Projects
-
-
-#### 💡 [Executive & Product Performance Dashboard – Blinkit (Power BI)](https://github.com/PriyaPradhan22)
-🚚 Built an interactive dashboard using Blinkit (Kaggle) data to analyze revenue, delivery performance, product trends, and customer feedback.  
-📌 On-time delivery tracking, shelf life breakdown, and executive insights using Power BI visuals and slicers.
-
-#### 💡 [Netflix Executive Content Overview – Tableau Dashboard](https://public.tableau.com/app/profile/priya.pradhan/viz/NetflixAnalysis_17507848646750/ExecutiveContentOverview#1)
-🎥 Designed an executive dashboard in Tableau providing a global overview of Netflix content distribution.  
-📌 Showcased total titles, genre trends, content type breakdown, and country-wise availability with dynamic filters for quick strategy decisions.
-
-#### 💡 [Global Retail Sales Executive Dashboard – Tableau](https://public.tableau.com/app/profile/priya.pradhan/viz/GlobalRetailSalesAnalytics-2011Overview/Dashboard3)
-🌍 Built an interactive Tableau dashboard for analyzing global online retail sales as part of a simulation-based executive task.  
-📌 Focused on key CEO/CMO questions—performance tracking, top markets, and expansion planning using KPIs, dual-axis charts, and filled maps.
-
-#### 💡 [Fake News Detection Web App](https://github.com/PriyaPradhan22/fake-news-detection)
-📰 Built a machine learning–powered web app to classify news articles as real or fake in real time.  
-📌 Features an intuitive Streamlit interface with Logistic Regression and TF-IDF vectorization for text analysis.
-
-🧠 Applied skills: NLP (stopword removal, lemmatization), Scikit-learn ML, model deployment with Streamlit.
-
 
 ### 📢 Let’s Collaborate
 
